@@ -11,6 +11,6 @@ I'm trying out different technologies and currently enjoying **PHP** and **Go**.
 
 ### Codewars
 
-[My Codewars profile](https://www.codewars.com/)
+(https://www.codewars.com/)
 
 ![Codewars rank](./codewars.png)
